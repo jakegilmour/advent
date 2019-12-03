@@ -1,1 +1,0 @@
-sheetsum.py: pretty simple.
