@@ -5,7 +5,7 @@
     <ProjectGuid>68564c40-4195-4fbc-adfd-7adf4f65f199</ProjectGuid>
     <ProjectHome>
     </ProjectHome>
-    <StartupFile>Day003\Day003.py</StartupFile>
+    <StartupFile>Day004\Day004.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -30,11 +30,15 @@
     <Compile Include="Day003\Day003.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Day004\Day004.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Day001\" />
     <Folder Include="Day002\" />
     <Folder Include="Day003\" />
+    <Folder Include="Day004\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
